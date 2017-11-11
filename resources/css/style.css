@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 header {
-  background-image: url("/Users/rebeccabranch/Documents/coding projects/broadway/resources/images/the-flatiron-building.png");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
 }
 header h1 {
