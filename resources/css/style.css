@@ -5,6 +5,8 @@ body {
 header {
   background-image: url("../images/the-flatiron-building.png");
   color: white;
+  background-repeat: no-repeat;
+
 }
 header h1 {
   font-size: 70px;
